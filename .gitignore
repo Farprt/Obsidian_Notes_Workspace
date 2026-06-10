@@ -1,0 +1,47 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/trash/
+
+# Obsidian community plugin installs and local plugin data
+.obsidian/plugins/
+
+# Obsidian trash
+.trash/
+
+# Private/local-only note areas
+Private/
+private/
+??/
+??/
+Journal/
+journal/
+Daily/
+daily/
+Diary/
+diary/
+
+# Local helper outputs
+.sync-preview.txt
+.local/
+
+# Local book PDFs; keep bibliographic notes public, not full book files.
+Sources/Books/**/*.pdf
+# Public vault safety: never track raw sources, course material, homework, or PDFs.
+Sources/
+Courses/
+*.pdf
+
+# Public vault safety: never track local vault state or temporary/private areas.
+.obsidian/
+Inbox/
+Archive/
+Projects/
