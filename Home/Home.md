@@ -13,6 +13,11 @@ visibility: public
 - [[Computer Science MOC]]
 - [[Communications MOC]]
 
+## Project Maps
+
+- [[RAG MOC]]
+- [[琅嬛（个人知识系统）]]
+
 ## Topic Maps
 
 - [[Wireless Channel MOC]]
@@ -24,7 +29,7 @@ visibility: public
 
 ```dataview
 TABLE area, subarea, status, file.mtime AS modified
-FROM "Areas" OR "Concepts" OR "Maps"
+FROM "Areas" OR "Concepts" OR "Maps" OR "Projects"
 WHERE !contains(file.path, "System")
 SORT area ASC, subarea ASC, file.name ASC
 ```

@@ -17,6 +17,8 @@ visibility: public
 ## Computer Science
 
 - [[Computer Science MOC]]
+- [[RAG MOC]]
+- [[琅嬛（个人知识系统）]]
 - [[算法笔记]]
 - [[Models of Computation(MoC)]]
 - [[Finite-State Machines(FSM)]]

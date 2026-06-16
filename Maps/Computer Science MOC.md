@@ -8,6 +8,14 @@ visibility: public
 
 # Computer Science MOC
 
+## AI Architecture / RAG
+
+- [[RAG MOC]]
+- [[琅嬛（个人知识系统）]]
+- [[Retrieval-Augmented Generation（检索增强生成）]]
+- [[Hybrid Search（混合检索）]]
+- [[Rerank（重排序）]]
+
 ## Algorithms
 
 - [[算法笔记]]
@@ -27,6 +35,6 @@ visibility: public
 
 ```dataview
 LIST
-FROM "Areas/Computer Science" OR "Concepts/Computer Science"
+FROM "Areas/Computer Science" OR "Concepts/Computer Science" OR "Projects/Lang Huan"
 SORT file.name ASC
 ```

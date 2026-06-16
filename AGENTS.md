@@ -14,7 +14,7 @@ Do not add humanities, history, politics, social science reading notes, private 
 
 ## Source Of Truth
 
-`E:\Codex\Obsidian_Knowledge_Private` is the source of truth. This public vault receives cleaned exports only.
+The private Obsidian vault is the source of truth. This public vault receives cleaned exports only.
 
 ## Before Editing
 

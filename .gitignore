@@ -45,3 +45,9 @@ Courses/
 Inbox/
 Archive/
 Projects/
+
+# Public-safe project export allowlist
+!Projects/
+Projects/*
+!Projects/Lang Huan/
+!Projects/Lang Huan/**
